@@ -1,0 +1,13 @@
+{
+  "name": "Me Intermittent Fast",
+  "short_name": "Intermittent Fast",
+  "description": "Intermittent fasting companion — strategy, live fasting dashboard, streaks and history.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f1c19",
+  "theme_color": "#0f1c19",
+  "icons": [
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

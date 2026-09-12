@@ -1,0 +1,26 @@
+{
+  "26331e62-b9da-4ae3-a26b-0246ad668773": {
+    "date": "2026-08-02",
+    "streak": 0,
+    "completionRate": 67,
+    "completedFasts": 11,
+    "strategy": "16:8",
+    "id": "26331e62-b9da-4ae3-a26b-0246ad668773"
+  },
+  "b8f7fcb4-dce6-4a3b-ab97-41753da21297": {
+    "date": "2026-08-16",
+    "streak": 0,
+    "completionRate": 22,
+    "completedFasts": 11,
+    "strategy": "16:8",
+    "id": "b8f7fcb4-dce6-4a3b-ab97-41753da21297"
+  },
+  "c8ff7b3a-a8f5-4ff8-aca4-579fe45d3d18": {
+    "date": "2026-09-12",
+    "streak": 0,
+    "completionRate": 0,
+    "completedFasts": 11,
+    "strategy": "16:8",
+    "id": "c8ff7b3a-a8f5-4ff8-aca4-579fe45d3d18"
+  }
+}
